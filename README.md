@@ -9,6 +9,8 @@
 
 # React Navigation :
 
+# npx expo install react-native-screens
+
 
 
 
